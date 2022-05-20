@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.5'
 
   spec.source = { 
-    :git => "https://github.com/apple/swift-collections.git",
+    :git => "https://github.com/WW-Digital/swift-collections.git",
     :tag => "#{spec.version}" 
   }
 
